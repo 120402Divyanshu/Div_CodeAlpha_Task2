@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+html,body{
+height: 100%;
+width: 100%;
+font-family: 'Bungee Spice', cursive;
+background-color: #6a6e7a;
+}
+.btn{
+    padding: 20px;
+    margin: 0 3px;
+    border: 1px solid black;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 52px;
+}
+.tuple{
+    margin: 8px 0;
+}
+.tuple input{
+    font-size: 20px;
+    margin: 0px;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
